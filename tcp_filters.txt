@@ -1,0 +1,3 @@
+tcp.port eq 1720 and tcp.port eq 35635
+
+ip.addr eq 10.10.1.50 and ip.addr eq 74.125.65.100
